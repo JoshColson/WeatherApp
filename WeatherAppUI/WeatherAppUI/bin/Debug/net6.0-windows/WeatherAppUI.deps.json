@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeatherAppUI/1.0.0": {
+        "runtime": {
+          "WeatherAppUI.dll": {}
+        }
+      },
+      "Backend Data/1.0.0": {
+        "runtime": {
+          "Backend Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherAppUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Backend Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

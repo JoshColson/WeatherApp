@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "befe35dd-6ee6-46ff-93c4-a10f6ade5657": {
+      "ProjectGuid": "befe35dd-6ee6-46ff-93c4-a10f6ade5657",
+      "DisplayName": "WeatherAppUI",
+      "ColorIndex": 0
+    },
+    "5d2fd932-d106-4520-814a-01025d4f6172": {
+      "ProjectGuid": "5d2fd932-d106-4520-814a-01025d4f6172",
+      "DisplayName": "Backend Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

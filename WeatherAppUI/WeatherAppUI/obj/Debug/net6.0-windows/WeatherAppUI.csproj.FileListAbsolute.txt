@@ -1,0 +1,21 @@
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\WeatherAppUI.exe
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\WeatherAppUI.deps.json
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\WeatherAppUI.runtimeconfig.json
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\WeatherAppUI.dll
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\WeatherAppUI.pdb
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.Properties.Resources.resources
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.csproj.GenerateResource.cache
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.AssemblyInfo.cs
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.dll
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\ref\WeatherAppUI.dll
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.pdb
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.genruntimeconfig.cache
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.BackPlate.resources
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\Backend Data.dll
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\bin\Debug\net6.0-windows\Backend Data.pdb
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\WeatherAppUI.csproj.CopyComplete
+C:\Users\Josh\source\repos\WeatherAppUI\WeatherAppUI\obj\Debug\net6.0-windows\refint\WeatherAppUI.dll
